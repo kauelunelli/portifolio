@@ -12,4 +12,32 @@ h1 {
 }
 h2 {
   font-size: 60px;
+  color: #714444;
+}
+
+.btn {
+  font-family: 'Newsreader', serifs;
+  padding: 24px 32px;
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+  border-radius: 12px;
+  font-weight: bold;
+  border: none;
+}
+
+.btn:hover {
+  transform: scale(1.0175);
+}
+
+.btn:active {
+  transform: scale(0.985);
+}
+
+.btn-primary {
+  background: #343027;
+}
+
+.btn-black {
+  background: rgb(39, 37, 37);
 }

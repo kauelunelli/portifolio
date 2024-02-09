@@ -13,7 +13,7 @@ import { IconDarkMode, IconLinkedl } from './icons/index'
 </template>
 <style scoped>
 .header-container {
-  background: rgb(241, 236, 236);
+  background: rgb(255, 255, 255);
   width: 100%;
   max-height: 100px;
   padding: 0 1.5rem;
